@@ -1,0 +1,43 @@
+# VuePress files
+docs/.vuepress/.temp/
+docs/.vuepress/.cache/
+docs/.vuepress/dist/
+docs/.vuepress/components
+# Dist files
+lib/
+
+# Test temp files
+**/__fixtures__/.temp/
+
+# Test coverage files
+coverage/
+
+# Node modules
+node_modules/
+
+# folder
+.vscode/
+
+# MacOS Desktop Services Store
+.DS_Store
+*.DS_Store
+Icon^M
+._*
+
+# Log files
+*.log
+*._
+#temp
+
+# Typescript build info
+.firebaserc
+.firebase/
+firebase.json
+.gitattributes
+*.lock
+Icon[^M]
+!/.gitignore
+.env
+debug/
+*.zip
+*.pdf
