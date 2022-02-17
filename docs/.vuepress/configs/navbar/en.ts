@@ -1,16 +1,8 @@
 import type { NavbarConfig } from '@vuepress/theme-default'
 
-//! Các môn chưa hỗ trợ
-// '/nhapmon/CT190-Nhap_mon_tri_tue_nhan_tao/',
-// '/nhapmon/CT173-Kien_truc_may_tinh/',
-// '/cosonganh/CT178-Nguyen_ly_he_dieu_hanh/',
-// '/chuyennganh/CT273-Giao_dien_nguoi_may/',
-// '/doannganh/CT271-Nien_luan_co_so_CNTT/',
-// '/doannganh/CT446-Nien_luan_CNTT/',
-
 export const en: NavbarConfig = [
   {
-    text: 'Trang Chủ',
+    text: 'Home',
     link: '/guide/intro.md',
   },
   {
