@@ -27,12 +27,6 @@ export default defineUserConfig<DefaultThemeOptions>({
       title: 'Zen DevBook Guide',
       description:
         'Cung cấp hướng dẫn cho từng công nghệ hay ngôn ngữ lập trình',
-    },
-    '/eng/': {
-      lang: 'en-US',
-      title: 'Zen DevBook Guide',
-      description:
-        'Provide guidance for each technology or programming language'
     }
   },
 
@@ -55,13 +49,6 @@ export default defineUserConfig<DefaultThemeOptions>({
         lastUpdatedText: 'Cập nhật lúc ',
         contributorsText: 'Tác giả',
       },
-      '/eng/': {
-        navbar: navbar.en,
-        sidebar: sidebar.en,
-
-        lastUpdatedText: 'Updated ',
-        contributorsText: 'Author',
-      }
     },
     themePlugins: { git: isProd },
   },

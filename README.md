@@ -1,4 +1,4 @@
-<p align="center"><a href="https://zenctu.web.app" target="_blank" rel="noopener noreferrer"><img width="150" src="https://zenctu.web.app/images/hero.png" alt="Vue logo"></a></p>
+<p align="center"><a href="https://zendevbook.web.app" target="_blank" rel="noopener noreferrer"><img width="150" src="https://zendevbook.web.app/images/hero.png" alt="Vue logo"></a></p>
 
 <h2 align="center">Project Academic support for all students study IT</h2>
 
