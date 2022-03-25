@@ -1,6 +1,6 @@
 {
-  "name": "Zen DevBook Guide",
-  "short_name": "ZenDevBook",
+  "name": "CTU Course Guide",
+  "short_name": "ZenCTU",
   "description": "Môi trường học tập lý tưởng cho sinh viên IT đại học Cần Thơ",
   "start_url": "/index.html",
   "display": "standalone",
